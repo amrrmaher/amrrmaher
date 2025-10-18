@@ -1,97 +1,107 @@
-<div align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="130" alt="Data Analyst Icon"/>
-  <h1>Hi, I'm <span style="color:#0077B5;">Amr Maher Ibrahim</span> 👋</h1>
-  <h3 style="color:#555;">Business Intelligence Student | Data Analyst | Power BI & SQL Enthusiast</h3>
-</div>
+# مرحبًا! 👋
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/amrmaheribrahim/" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Amr Maher Ibrahim" height="30" width="30" />
+  </a>
+</p>
 
 ---
 
-### 🧠 About Me
-I’m an **ambitious Business Intelligence student** with over one year of experience in **data analysis and visualization** using Power BI, Excel, and SQL.  
-Skilled in handling diverse data domains — including **marketing, e-commerce, financial analytics**, and **business development** — with a strong ability to turn raw data into actionable insights that drive business growth.
+### 👨‍💻 من أنا:
+- 🎓 طالب في مجال الذكاء الاصطناعي للأعمال في جامعة الشرق الأوسط، عمان، الأردن.
+- 💼 متدرب سابق في بنك القاهرة عمان، حيث عملت على تحليل بيانات أداء الفروع وإدارة مخاطر القروض.
+- 📊 متخصص في تحليل البيانات باستخدام Power BI، Excel، SQL، مع خبرة في تنظيف وتحويل البيانات.
+- 🚀 شغوف باستخدام استراتيجيات قائمة على البيانات لحل التحديات التجارية ودفع النمو.
 
 ---
 
-### 🎓 Education
-**Bachelor of Business Intelligence**  
-📍 *Middle East University, Amman – Jordan (2022–2026 Expected)*  
-**GPA:** Very Good  
+### 🛠️ المهارات التقنية:
+- **تحليل البيانات**: جمع، معالجة، وتفسير مجموعات البيانات المعقدة لاستخلاص رؤى قابلة للتنفيذ.
+- **تصور البيانات**: إنشاء لوحات معلومات وتقارير تواصل الرؤى بفعالية.
+- **إدارة قواعد البيانات**: العمل مع البيانات المنظمة وغير المنظمة لضمان الدقة والتناسق.
+- **نمذجة البيانات**: تصميم وتحسين نماذج البيانات لتحسين كفاءة التقارير.
+- **تنظيف وتحويل البيانات**: إعداد البيانات الخام من خلال اكتشاف الأخطاء وإزالة التكرارات.
+- **تحليلات الويب والتسويق**: تحليل مقاييس الأداء الرقمي لقياس الحملات وتتبع سلوك العملاء.
 
 ---
 
-### 💼 Experience
-
-#### 🏦 Cairo Amman Bank — *Data Analyst Intern*  
-📆 Feb 2025 – Mar 2025  
-- Analyzed branch performance, loan risk, and market positioning.  
-- Created data-driven dashboards using **Power BI** and **DAX**.  
-- Presented insights to management supporting strategic planning and decision-making.  
-- Enhanced understanding of how data impacts business operations in banking.
-
-#### 💼 Raizn — *Business Analysis Intern*  
-📆 May 2024 – Oct 2024  
-- Supported marketing analytics and performance evaluation.  
-- Participated in meetings to align business goals with analytical insights.  
-- Developed strong soft skills in **communication**, **teamwork**, and **time management**.
+### 🎓 التعليم:
+**بكالوريوس في الذكاء الاصطناعي للأعمال**  
+جامعة الشرق الأوسط، عمان، الأردن  
+2022 – 2026 (متوقع)  
+المعدل التراكمي: جيد جدًا
 
 ---
 
-### 📊 Projects
+### 💼 الخبرة العملية:
+**بنك القاهرة عمان، الأردن**  
+*محلل بيانات (متدرب)*  
+فبراير 2025 – مارس 2025  
+- عملت على مشاريع متعددة تهدف إلى تحسين أداء الفروع وإدارة مخاطر القروض.
+- طورت مهارات في تنظيف البيانات، DAX، وأدوات تصور البيانات.
+- قدمت تقارير موجزة وتوصيات مدعومة بالبيانات للإدارة.
 
-#### 🏦 Branch Performance Analysis — *Cairo Amman Bank*  
-Analyzed branch operations to determine peak hours, transaction volumes, and profitability, then visualized insights to improve efficiency.
-
-#### 📈 Market Competitor Analysis — *Cairo Amman Bank*  
-Compared profits, deposits, and assets with competitors to identify opportunities and strengthen market positioning.
-
-#### 🚀 Connecta Agency — *Co-Founder & Data Analyst*  
-Launched a digital marketing agency integrating BI services.  
-Provided insights on **marketing performance**, **location analytics**, and **SEO results**, leading to more data-driven marketing strategies.
-
----
-
-### 🧩 Technical Skills
-
-| Category | Skills |
-|-----------|---------|
-| **Data Analysis** | Python, SQL, Excel |
-| **Data Visualization** | Power BI, Tableau |
-| **Database Management** | MySQL, Data Modeling |
-| **Data Cleaning & Transformation** | Power Query, Pandas |
-| **Web & Marketing Analytics** | Google Analytics, SEO Metrics |
-| **Programming for Analysis** | Python scripting, Data automation |
+**رايزن، الأردن**  
+*تحليل الأعمال (متدرب)*  
+مايو 2024 – أكتوبر 2024  
+- دعمت أنشطة تحليل الأعمال من خلال تحديد مجالات التحسين في أداء التسويق.
+- شاركت في اجتماعات العملاء وجلسات العصف الذهني لفهم احتياجات الأعمال.
+- طورت مهارات التواصل والتعاون وإدارة الوقت.
 
 ---
 
-### 🤝 Soft Skills
-- Problem-Solving & Critical Thinking  
-- Data-Driven Decision Making  
-- Communication (Technical & Non-Technical)  
-- Team Collaboration  
-- Strategic Thinking  
+### 🧠 المهارات الشخصية:
+- **حل المشكلات**: القدرة على التعامل مع التحديات بشكل تحليلي وتقديم حلول قائمة على البيانات.
+- **التواصل**: القدرة على ترجمة البيانات المعقدة إلى رؤى واضحة للجمهور الفني وغير الفني.
+- **التفكير النقدي**: القدرة على تقييم المعلومات بشكل موضوعي ودعم اتخاذ القرارات الاستراتيجية.
+- **التعاون**: خبرة في العمل عبر الفرق لمواءمة رؤى البيانات مع أهداف الأعمال.
 
 ---
 
-### 🏅 Certifications
-- **Project Management Professional (PMP)** — Feb–Apr 2024  
-- **Certified Financial Manager (CFM)** — Aug–Oct 2024  
+### 📈 المشاريع:
+- **تحليل أداء الفروع، بنك القاهرة عمان**: تحليل عمليات الفروع لتحديد ساعات الذروة وعدد المعاملات والربحية.
+- **تحليل المنافسين في السوق، بنك القاهرة عمان**: مقارنة مقاييس الأداء (الأرباح، الودائع، الأصول) للبنك مع المنافسين.
+- **المؤسس المشارك ومحلل بيانات، وكالة كونكتا**: إطلاق وكالة تسويق رقمي تقدم خدمات الذكاء الاصطناعي للأعمال.
 
 ---
 
-### 🌐 Languages
-- **Arabic:** Native  
-- **English:** Very Good / Intermediate  
+### 🎓 الشهادات المهنية:
+- **مدير مشاريع محترف (PMP)**  
+  المدة: 40 ساعة (18 فبراير 2024 – 30 أبريل 2024)
+- **مدير مالي معتمد (CFM)**  
+  المدة: 40 ساعة (19 أغسطس 2024 – 19 أكتوبر 2024)
 
 ---
 
-### 📫 Contact Me
-📍 Amman, Jordan  
-📞 (+962) 79470412  
-📧 [amrrmaher04@gmail.com](mailto:amrrmaher04@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com) | [GitHub](https://github.com)
+### 🌐 اللغات:
+- **العربية**: اللغة الأم
+- **الإنجليزية**: جيد جدًا / متوسط
 
 ---
 
-<div align="center">
-  <i>“Turning data into insights, and insights into impact.”</i>  
-</div>
+### 📊 إحصائيات GitHub:
+![إحصائيات GitHub الخاصة بـ Amr Maher Ibrahim](https://github-readme-stats.vercel.app/api?username=amrmaheribrahim&show_icons=true&title_color=2c3e50&icon_color=2980b9&text_color=34495e&bg_color=ecf0f1)
+
+---
+
+### 🧠 أحدث المقالات:
+- [تحليل أداء الفروع باستخدام Power BI](https://amrmaheribrahim.tech/branch-performance-analysis)
+- [إدارة مخاطر القروض باستخدام SQL](https://amrmaheribrahim.tech/loan-risk-management)
+- [تحليل المنافسين في السوق باستخدام Excel](https://amrmaheribrahim.tech/market-competitor-analysis)
+
+---
+
+### 🎯 الهدف المهني:
+أسعى لتوظيف مهاراتي في تحليل البيانات والذكاء الاصطناعي للأعمال للمساهمة في اتخاذ قرارات استراتيجية مدعومة بالبيانات، وتحقيق نمو مستدام في المؤسسات.
+
+---
+
+### 📬 للتواصل:
+- **البريد الإلكتروني**: [amrrmaher04@gmail.com](mailto:amrrmaher04@gmail.com)
+- **الهاتف**: (962)79470412
+- **LinkedIn**: [linkedin.com/in/amrmaheribrahim](https://www.linkedin.com/in/amrmaheribrahim/)
+
+---
+
+**"البيانات هي النفط الجديد، والتحليل هو المحرك."**
